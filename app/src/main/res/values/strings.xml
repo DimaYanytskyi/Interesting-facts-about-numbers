@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Interesting facts about numbers</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_number">Ваше число</string>
+    <string name="get_fact">Отримати факт</string>
+    <string name="get_fact_about_random_number">Отримати факт про\n випадкове число</string>
+    <string name="_0">0</string>
+    <string name="description">Description</string>
+    <string name="back">back</string>
+    <string name="_1">1</string>
+    <string name="preview_text">Preview Text</string>
+    <string name="recent_search">Recent search</string>
+</resources>
